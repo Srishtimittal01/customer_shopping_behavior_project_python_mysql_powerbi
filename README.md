@@ -50,7 +50,7 @@ Most Popular Products
 Revenue by Payment Method
 
 📸 Dashboard Preview
-![Dashboard](customer_dashboard.png)
+![Dashboard](customer_shopping_dashboard.png)
 
 ## 📈 Key Insights
 
